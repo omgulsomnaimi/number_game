@@ -1,7 +1,7 @@
 import random
 import streamlit as st
 
-st.title("🎯 Number Guessing Game by Om Gulsom Naimi")
+st.title("🎯 Number Guessing Game Made By Om Gulsom Naimi")
 st.write("Guess a number between 1 and 10")
 
 # Generate a random number (store it using session state)
